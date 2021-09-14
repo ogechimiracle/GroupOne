@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630928671 source:c:\users\ogechi\desktop\c++\groupone\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string>
+
